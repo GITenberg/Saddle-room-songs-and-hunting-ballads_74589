@@ -1,11 +1,16 @@
 _repo: Saddle-room-songs-and-hunting-ballads_74589
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74589-h/images/cover.jpg
 creator:
   author:
     agent_name: Palmer, Frederick C.
     gutenberg_agent_id: '57566'
     url: http://www.gutenberg.org/2009/agents/57566
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74589#Saddle-room-songs-and-hunting-ballads
 gutenberg_issued: '2024-10-16'
 gutenberg_type: Text
 identifiers:
